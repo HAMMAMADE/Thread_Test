@@ -24,6 +24,7 @@ class Ex5 extends JFrame {
 		this.setResizable(false);
 		this.setVisible(true);
 		p.startGame();
+		//git
 	}
 }
 
